@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ["custom/next"],
+  extends: ["@studom/eslint-config-custom/next"],
 };
