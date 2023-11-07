@@ -38,5 +38,10 @@ module.exports = {
   // add rules configurations here
   rules: {
     "import/no-default-export": "off",
+    "@typescript-eslint/no-floating-promises": "off",
+    "unicorn/filename-case": "off",
+    "no-console": "off",
+    "unicorn/no-null": "off",
+    "@typescript-eslint/explicit-function-return-type": "off",
   },
 };

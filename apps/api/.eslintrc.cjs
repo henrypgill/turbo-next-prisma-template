@@ -1,4 +1,4 @@
 module.exports = {
   root: true,
-  extends: ["@savent-solar/eslint-config-custom"],
+  extends: ["@hpgturbostarter/eslint-config-custom/express"],
 };

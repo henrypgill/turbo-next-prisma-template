@@ -4,8 +4,9 @@ export const config: Config = {
   content: [
     // "../../packages/ui/**/*.{js,ts,jsx,tsx}",
     // "./**/*.{js,ts,jsx,tsx}",
-    "./src/**/*.{js,ts,jsx,tsx}",
-    "./index.html",
+    "./app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./pages/**/*.{js,ts,jsx,tsx,mdx}",
+    "./components/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   daisyui: {
     themes: [
