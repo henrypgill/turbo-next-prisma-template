@@ -1,4 +1,4 @@
 {
-  "extends": "@studom/tsconfig/base.json",
+  "extends": "@hpgturbostarter/tsconfig/base.json",
   "exclude": ["node_modules"]
 }
